@@ -1,9 +1,6 @@
-# app.rb
+#app.rb
 puts "Hello world!"
-# app.rb
-print "pass!"
-print "this test,!"
-print "please!"
-# This is the equivalent of calling:
-# puts [1, 2, 3].inspect
+print "Pass this test, please"
 p [1, 2, 3]
+pp [{ id: 1, hello: "World" }, { id: 2, hello: "Ruby" }, { id: 3, hello: "Moon" }, { id: 4, hello: "Learner" }]
+Footer
